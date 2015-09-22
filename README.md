@@ -5,4 +5,4 @@ Hi Humans!!
 
 I'm a robot
 
-My name is Lee Ju Hyung
+My name is juhl
